@@ -1,0 +1,3 @@
+[submodule "scripts"]
+	path = scripts
+	url = git@github.com:Antonio-AHD/Belejar-git-submodule.git
